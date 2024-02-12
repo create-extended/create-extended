@@ -55,10 +55,10 @@ The Essentials mod within the Create Extended modpack has transformed multiplaye
 
 <p></p>
 
-<center>
+<p align="center">
 <strong>
 <a href="https://discord.gg/Tb7WVpdEsU"><font>Discord</font></a><font> •</font> 
 <a href="https://github.com/OwOPetMinecraft/create-extended"><font>Github</font></a><font> •</font> 
 <a href="https://github.com/OwOPetMinecraft/create-extended/issues"><font>Issues</font></a>
-
+</p>
 <p></p>
