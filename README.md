@@ -1,11 +1,8 @@
-<center>
-
-<p></p>
-
+<p align="center">
 <a title="Discord" href="https://discord.gg/Tb7WVpdEsU">
-<img src="https://raw.githubusercontent.com/OwOPetMinecraft/create-extended/main/Banner.png"   width="768"  alt="Create Extended Modpack banner">
+<img src="https://raw.githubusercontent.com/OwOPetMinecraft/create-extended/main/Banner.png"  width="768"  alt="Create Extended Modpack banner">
 </a>
-
+</p>
 <p></p>
 
 <span><strong><font size="5">Official Create Extended Modpack</font></strong></span>
