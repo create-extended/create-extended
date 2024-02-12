@@ -5,8 +5,10 @@
 </p>
 <p></p>
 
+<p align="center">
 <span><strong><font size="5">Official Create Extended Modpack</font></strong></span>
-</center>
+</p>
+
 
 ---
 
